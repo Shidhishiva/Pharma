@@ -12,7 +12,7 @@
   .image-slider {
     height: 80vh;
     width: 100%;
-    background-image: url("../../static/slider-1.jpg");
+    background-image: url("./assets/slider-1.jpg");
     background-size: 100% 100%;
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
     animation: changeImage 5s linear infinite;
@@ -20,13 +20,13 @@
 
   @keyframes changeImage {
     0% {
-      background-image: url("http://www.oscarpharma.in/images/main-slider/slider-4.jpg");
+      background-image: url("./assets/slider-2.jpg");
     }
     50% {
-      background-image: url("http://www.oscarpharma.in/images/main-slider/slider-1.jpg");
+      background-image: url("./assets/slider-3.jpg");
     }
     100% {
-      background-image: url("http://www.oscarpharma.in/images/main-slider/slider-5.jpg");
+      background-image: url("./assets//slider-1.jpg");
     }
   }
 

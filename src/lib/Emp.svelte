@@ -1,11 +1,15 @@
 <!-- Employees flash cards --> 
-
+<script>
+  import emp1 from "$lib/assets/demo1.jpg";
+  import emp2 from "$lib/assets/demo2.jpg";
+  import emp3 from "$lib/assets/demo3.jpg";
+</script>
 <div class="container">
   <div class="flip-card">
     <div class="flip-card-inner">
       <div class="flip-card-front">
         <img
-          src="../../static/demo1.jpg"
+          src= {emp1}
           alt="Avatar"
           style="width:300px;height:300px;"
         />
@@ -22,7 +26,7 @@
     <div class="flip-card-inner">
       <div class="flip-card-front">
         <img
-          src="../../static/demo2.jpg"
+          src= {emp2}
           alt="Avatar"
           style="width:300px;height:300px;"
         />
@@ -39,7 +43,7 @@
     <div class="flip-card-inner">
       <div class="flip-card-front">
         <img
-          src="../../static/demo3.jpg"
+          src= {emp3}
           alt="Avatar"
           style="width:300px;height:300px;"
         />

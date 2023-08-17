@@ -4,6 +4,7 @@
   import What from "$lib/What.svelte";
   import Button from "$lib/Button.svelte";
   import Seo from "$lib/Seo.svelte";
+  
   export let form;
 
 </script>
@@ -90,6 +91,7 @@
 />
 
 <style>
+  
   .container {
     width: 100%;
     padding: 2em 0;
@@ -122,3 +124,5 @@
     color: red;
   }
 </style>
+
+

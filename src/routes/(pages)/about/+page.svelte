@@ -4,6 +4,7 @@
   import Seo from "$lib/Seo.svelte";
   import Contact from "$lib/Contact.svelte";
   
+  
   import Emp from "$lib/Emp.svelte";
  
 </script>
@@ -38,8 +39,9 @@
   description="This is about page"
   type="WebPage"
 />
-
 <style>
+
+
   .grid {
     display: grid;
     grid-template-columns: repeat(12, 1fr);
@@ -68,3 +70,5 @@
     border-bottom: 1px solid #ddd;
   }
 </style>
+
+

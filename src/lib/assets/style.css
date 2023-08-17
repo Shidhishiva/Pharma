@@ -1,0 +1,30 @@
+:root {
+  --primary-color: #ff7700;
+  --bg-color: #000000;
+  --color: #ddd;
+}
+
+[data-theme="dark"] {
+  --primary-color: #e26a00;
+  --bg-color: white;
+  --color: #000000;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, segoe ui, Roboto,
+    helvetica neue, Arial, noto sans, sans-serif, apple color emoji,
+    segoe ui emoji, segoe ui symbol, noto color emoji;
+  background-color: var(--bg-color);
+  color: var(--color);
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+input,
+textarea {
+  background-color: transparent;
+}

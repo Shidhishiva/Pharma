@@ -2,6 +2,7 @@
   import Seo from "$lib/Seo.svelte";
  
   import What from "$lib/What.svelte";
+  
 
   export let data;
 
@@ -27,8 +28,8 @@
  
 </div>
 
-<style lang="text/scss">
-  /* Watch this video */
+<style>
+  
 
  
 
@@ -78,16 +79,16 @@
     transition: all 0.6s ease;
   }
 
-  .card .cont .link i {
+  /* .card .cont .link i {
     font-size: 25px;
     color: rgb(10, 9, 9);
     transition: all 0.2s ease;
-  }
+  } */
 
-  .card .cont .link i:hover {
+  /* .card .cont .link i:hover {
     color: black;
     cursor: pointer;
-  }
+  } */
 
   .card:hover > .cont {
     display: flex;
@@ -98,9 +99,9 @@
     height: 150px;
   }
 
-  .card:hover > .link {
+  /* .card:hover > .link {
     width: 40%;
     display: flex;
     justify-content: space-between;
-  }
+  } */
 </style>
