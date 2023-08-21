@@ -27,4 +27,15 @@
   .small {
     padding: 0.25em 0.5em;
   }
+
+  @media (max-width: 600px) {
+    button {
+      border: none;
+      border-radius: 0.25em;
+      background-color: var(--primary-color);
+      color: white;
+      font-size: 1em;
+      cursor: pointer;
+    }
+  }
 </style>
