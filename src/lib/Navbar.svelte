@@ -98,7 +98,7 @@
   }
   nav {
     color: black;
-    background-color: #fff;
+    background-color: #f8f8f8;
     box-sizing: border-box;
     padding: 20px;
     height: auto;
@@ -151,7 +151,7 @@
     }
     nav {
       color: black;
-      background-color: #fff;
+      background-color: #f8f8f8;
       box-sizing: border-box;
       padding-inline: 20px;
     }
@@ -202,7 +202,7 @@
     }
     nav {
       color: black;
-      background-color: #fff;
+      background-color: #f8f8f8;
       box-sizing: border-box;
       padding-inline: 18px;
     }
@@ -254,7 +254,7 @@
     }
     nav {
       color: black;
-      background-color: #fff;
+      background-color: #f8f8f8;
       box-sizing: border-box;
       padding-inline: 16px;
     }
@@ -306,7 +306,7 @@
     }
     nav {
       color: black;
-      background-color: #fff;
+      background-color: #f8f8f8;
       box-sizing: border-box;
       padding-inline: 12px;
     }
@@ -358,7 +358,7 @@
     }
     nav {
       color: black;
-      background-color: #fff;
+      background-color: #f8f8f8;
       box-sizing: border-box;
       padding-inline: 10px;
     }
@@ -410,7 +410,7 @@
     }
     nav {
       color: black;
-      background-color: #fff;
+      background-color: #f8f8f8;
       box-sizing: border-box;
       padding-inline: 8px;
     }
@@ -461,7 +461,7 @@
     }
     nav {
       color: black;
-      background-color: #fff;
+      background-color: #f8f8f8;
       box-sizing: border-box;
       padding-inline: 7px;
     }
@@ -512,7 +512,7 @@
     }
     nav {
       color: black;
-      background-color: #fff;
+      background-color: #f8f8f8;
       box-sizing: border-box;
       padding-inline: 10px;
     }

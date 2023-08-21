@@ -14,7 +14,7 @@
   footer {
     margin-top: auto;
     padding: 3em 0;
-    background-color: #fcfeff;
+    background-color: #f8f8f8;
     color: rgb(5, 5, 5);
   }
   .container {
@@ -27,7 +27,7 @@
   footer {
     margin-top: auto;
     padding: 3em 0;
-    background-color: #fcfeff;
+    background-color: #f8f8f8;
     color: rgb(5, 5, 5);
   }
   .container {
@@ -41,7 +41,7 @@
   footer {
     margin-top: auto;
     padding: 3em 0;
-    background-color: #fcfeff;
+    background-color: #f8f8f8;
     color: rgb(5, 5, 5);
   }
   .container {
@@ -55,7 +55,7 @@
   footer {
     margin-top: auto;
     padding: 3em 0;
-    background-color: #fcfeff;
+    background-color: #f8f8f8;
     color: rgb(5, 5, 5);
   }
   .container {
@@ -69,7 +69,7 @@
   footer {
     margin-top: auto;
     padding: 3em 0;
-    background-color: #fcfeff;
+    background-color: #f8f8f8;
     color: rgb(5, 5, 5);
   }
   .container {
@@ -83,7 +83,7 @@
   footer {
     margin-top: auto;
     padding: 3em 0;
-    background-color: #fcfeff;
+    background-color: #f8f8f8;
     color: rgb(5, 5, 5);
   }
   .container {
@@ -97,7 +97,7 @@
   footer {
     margin-top: auto;
     padding: 3em 0;
-    background-color: #fcfeff;
+    background-color: #f8f8f8;
     color: rgb(5, 5, 5);
   }
   .container {
@@ -110,7 +110,7 @@
   footer {
     margin-top: auto;
     padding: 3em 0;
-    background-color: #fcfeff;
+    background-color: #f8f8f8;
     color: rgb(5, 5, 5);
   }
   .container {
@@ -123,7 +123,7 @@
   footer {
     margin-top: auto;
     padding: 3em 0;
-    background-color: #fcfeff;
+    background-color: #f8f8f8;
     color: rgb(5, 5, 5);
   }
   .container {

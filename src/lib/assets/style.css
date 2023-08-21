@@ -1,12 +1,12 @@
 :root {
   --primary-color: #ff7700;
   --bg-color: #11031e;
-  --color: #e4c5c5;
+  --color: #f8f8f8;
 }
 
 [data-theme="dark"] {
   --primary-color: #e26a00;
-  --bg-color: rgb(225, 201, 201);
+  --bg-color: #f8f8f8;
   --color: #000000;
 }
 
